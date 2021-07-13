@@ -4752,8 +4752,8 @@
         "main": true,
         "title": "Home",
         "meta_descr": "Handmade portuguese jewelry",
-        "header_custom": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/9f739b6058ce08f78890dfb41/bedb8209c0ce1b4af121fcbd3.js\");</script>",
-        "footer_custom": "",
+        "header_custom": "",
+        "footer_custom": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/9f739b6058ce08f78890dfb41/bedb8209c0ce1b4af121fcbd3.js\");</script>",
         "html_before": ""
       },
       "components": [
