@@ -125,7 +125,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 2012,
+    "uniqCompNum": 2013,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-174577512-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-174577512-1');\n</script>",
@@ -4752,7 +4752,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "Handmade portuguese jewelry",
-        "header_custom": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/9f739b6058ce08f78890dfb41/bedb8209c0ce1b4af121fcbd3.js\");</script>",
+        "header_custom": "<script id=\"mcjs\">!function(c,h,i,m,p)",
         "footer_custom": "",
         "html_before": ""
       },
@@ -5402,6 +5402,27 @@
           "_anchor": "form3-sv",
           "_isUserblock": true,
           "_cid": "s8jb7LwaPS",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": "deltapi-code-editor",
+          "_isSecondary": true,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section": {
+              "text-align": "center",
+              "color": "#fff"
+            }
+          },
+          "_name": "custom-html",
+          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/9f739b6058ce08f78890dfb41/bedb8209c0ce1b4af121fcbd3.js\");</script>\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-12\">\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sD3F6VBsJr",
+          "_anchor": "custom-html-1jw",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
