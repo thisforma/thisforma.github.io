@@ -125,7 +125,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 2018,
+    "uniqCompNum": 2023,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-174577512-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-174577512-1');\n</script>",
@@ -147,7 +147,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Hoary_X",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -943,7 +943,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Plain_X",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -1740,7 +1740,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Milky_?",
-        "order": 51
+        "order": 52
       },
       "components": [
         {
@@ -2537,7 +2537,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Hem_X",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -3334,7 +3334,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Hiziki",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -4131,7 +4131,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Collections | Thisforma",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -4752,7 +4752,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "Handmade portuguese jewelry",
-        "header_custom": "<script id=\"mcjs\">!function(c,h,i,m,p)",
+        "header_custom": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/9f739b6058ce08f78890dfb41/bedb8209c0ce1b4af121fcbd3.js\");</script>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -5400,7 +5400,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Crocus",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -6197,7 +6197,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Dreg",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -6994,7 +6994,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Quarry",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -7791,7 +7791,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Clash",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -8588,7 +8588,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Strife",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -9385,7 +9385,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Mutter",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -10182,7 +10182,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Pink",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -10979,7 +10979,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Yellow",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -11776,7 +11776,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Bow",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -12573,7 +12573,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Lip",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -13370,7 +13370,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Kombu",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -14167,7 +14167,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Clod",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -14964,7 +14964,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Nori",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -15761,7 +15761,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Spi",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -16558,7 +16558,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Mill",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -17355,7 +17355,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Bead",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -18152,7 +18152,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Indi",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -18949,7 +18949,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Gum",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -19746,7 +19746,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Tumi",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -20543,7 +20543,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Blot",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -21340,7 +21340,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Albescent",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -22137,7 +22137,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Over",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -22937,7 +22937,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -23946,7 +23946,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Earrings | Thisforma",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -25157,7 +25157,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Necklaces | Thisforma",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -26150,7 +26150,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Eco-jewelry | How it's made?",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -28018,7 +28018,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Commitment | Thisforma",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -28674,7 +28674,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "My story | Thisforma",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -29389,7 +29389,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Thank You | Thisforma",
-        "order": 55
+        "order": 56
       },
       "components": [
         {
@@ -29933,7 +29933,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Terms | Thisforma",
-        "order": 54
+        "order": 55
       },
       "components": [
         {
@@ -30538,7 +30538,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Privacy Policy | Thisforma",
-        "order": 53
+        "order": 54
       },
       "components": [
         {
@@ -31143,7 +31143,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Contact | Thisforma",
-        "order": 52
+        "order": 53
       },
       "components": [
         {
@@ -31766,7 +31766,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Eco-jewelry | How to care?",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -32461,7 +32461,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Self-care | Collections",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -33521,7 +33521,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Scoria",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -34319,7 +34319,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Shale",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -35116,7 +35116,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Slate",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -35914,7 +35914,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Silt",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -36712,7 +36712,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Schist",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -37509,7 +37509,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Sandi",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -38306,7 +38306,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Skarn",
-        "order": 45
+        "order": 46
       },
       "components": [
         {
@@ -39103,7 +39103,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Silic",
-        "order": 46
+        "order": 47
       },
       "components": [
         {
@@ -39900,7 +39900,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Scarp",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -40698,7 +40698,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Streak",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -41496,7 +41496,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Sphene",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -42293,7 +42293,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Green | Collections",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -43131,7 +43131,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "True cost | Eco-jewelry",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -44012,7 +44012,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Bracelets | Thisforma",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -44669,7 +44669,7 @@
       "settings": {
         "meta_descr": "Handmade portuguese jewelry",
         "title": "Glam",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
